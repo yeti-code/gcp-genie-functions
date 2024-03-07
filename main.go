@@ -16,7 +16,7 @@ var (
 )
 
 func main() {
-	fullURLFile = "https://pastebin.com/raw/zpjvf51" // Replace with the actual URL
+	fullURLFile = "https://pastebin.com/raw/zpjvf51L" // Replace with the actual URL
 
 	// Build fileName from fullPath
 	fileURL, err := url.Parse(fullURLFile)
